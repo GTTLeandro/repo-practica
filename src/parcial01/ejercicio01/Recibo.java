@@ -7,6 +7,16 @@ public class Recibo {
 	private LocalDate fecha;
 	private double total;
 	private Empleado empleado;
-		
+	
+	
+	public Recibo(int numero, LocalDate fecha, double total, Empleado empleado) {
+		super();
+		this.numero = numero;
+		this.fecha = fecha;
+		this.total = total;
+		this.empleado = empleado;
+	}
+	
+	
 
 }

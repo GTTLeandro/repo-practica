@@ -1,9 +1,19 @@
 package parcial01.ejercicio01;
 
-public class App {
+import java.util.ArrayList;
 
-	public static void main(String[] args) {
-		public
+public class App {
+	
+		
+	public ArrayList<Recibo> rrhh(ArrayList<Empleado> empleados) {
+		for (Empleado emp : empleados) {
+			return (new ArrayList)
+			
+	}
+	
+		
+		
+		
 
 	}
 
